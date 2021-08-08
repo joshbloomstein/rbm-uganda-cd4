@@ -1,8 +1,9 @@
 # rbm-uganda-cd4
-- Analysis of CD4 counts and pathogen abundance
-- Pathogen detection from tracheal aspirate with Rules-Based Model
+This directory contains data and scripts to run statistical analyses in the manuscript under review: _Pneumonia Surveillance in HIV-Infected Adults in Uganda Through the Lens of Culture-Independent Metatranscriptomics: A Cross Sectional Study_![image](https://user-images.githubusercontent.com/88602945/128619110-1bf9c5c1-3eb6-4139-b0f5-9178f10dd7cb.png)
 
-## Statistical tests for CD4 count comparison in pathogen detection
+Analyses include CD4 count comparison with pathogen abundance and mortality analysis
+
+Study involves pneumonia pathogen detection from tracheal aspirate with Rules-Based Model
 
 CZBiohub IDSeq tools repository: https://github.com/czbiohub/idseqr/
 
