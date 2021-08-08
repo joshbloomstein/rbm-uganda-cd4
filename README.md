@@ -2,7 +2,7 @@
 - Analysis of CD4 counts and pathogen abundance
 - Pathogen detection from tracheal aspirate with Rules-Based Model
 
-# Statistical tests for CD4 count comparison in pathogen detection
+## Statistical tests for CD4 count comparison in pathogen detection
 
 CZBiohub IDSeq tools repository: https://github.com/czbiohub/idseqr/
 
