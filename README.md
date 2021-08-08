@@ -1,6 +1,5 @@
 # rbm-uganda-cd4
-Analysis of CD4 counts and pathogen abundance
-Pathogen detection from tracheal aspirate with Rules-Based Model
+Analysis of CD4 counts and pathogen abundance/nPathogen detection from tracheal aspirate with Rules-Based Model
 
 # Statistical tests for CD4 count comparison in pathogen detection
 
