@@ -29,4 +29,4 @@ df2$fisher.p.value <- fisher.p
 
 df2$fisher.BH <- p.adjust(df2$fisher.p.value, method = 'BH')
 
-write.csv(df2, file = 'Mortality at least 5 patients Fisher exact test.csv')
+write.csv(df2, file = 'Mortality Fisher exact testat at least 5 patients.csv')
